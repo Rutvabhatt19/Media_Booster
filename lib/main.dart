@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:media_booster/Provider.dart';
 import 'package:media_booster/Screeen1.dart';
+import 'package:media_booster/Splashscreen.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Screen1(),
+      home: Splashscreen(),
     );
   }
 }
