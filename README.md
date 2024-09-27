@@ -34,14 +34,18 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Rutvabhatt19/Media_Booster/assets/118719070/e080e670-8519-4b5f-ae85-6ece844d74d5" alt="Media Screen" width="250"></td>
     <td><img src="https://github.com/Rutvabhatt19/Media_Booster/assets/118719070/5585c0f8-44c9-4c17-9a84-623bc847c7f7" alt="Audio Player" width="250"></td>
+          <td><img src="https://github.com/Rutvabhatt19/Media_Booster/assets/118719070/a555e7e3-4870-44c2-b96d-8f7ba2d9c49f" alt="Audio Screen" width="250"></td>
+
     <td><img src="https://github.com/Rutvabhatt19/Media_Booster/assets/118719070/a690b34c-91f9-4041-910e-91effacefd82" alt="Video Player" width="250"></td>
+        <td><img src="https://github.com/Rutvabhatt19/Media_Booster/assets/118719070/f52c2647-ec60-405d-a515-3c62d46ce6b3" alt="Video Screen" width="250"></td>
+
   </tr>
   <tr>
-    <td align="center">Media Screen</td>
     <td align="center">Audio Player</td>
+      <td align="center">Audio Screen</td>
     <td align="center">Video Player</td>
+      <td align="center">Video Screen</td>
   </tr>
 </table>
 
